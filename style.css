@@ -1,9 +1,9 @@
 .vegetable{
-    background: url('c2-assets/vegetable-offer.png'), linear-gradient(to bottom right, #53DB3A, #ffffff);
+    background: url('./c2-assets/vegetable-offer.png'), linear-gradient(to bottom right, #53DB3A, #ffffff);
     background-repeat: no-repeat;
     background-position: bottom right;
 }
-.hidden{
+.hden{
     display: none;
 }
 @media only screen and (max-width: 640px){
